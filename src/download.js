@@ -26,7 +26,10 @@ if (!fs.existsSync(directoryPath)) {
   );
   await page.goto('https://vipchanger.com/res/xml/exprates.xml');
 
-  const xmlContent = await page.evaluate(() => document.body.innerText);
+  //const xmlContent = await page.evaluate(() => document.body.innerText);
+
+  // Используем page.content(), чтобы получить исходный контент страницы (включая XML)
+  const xmlContent = await page.content();
 
   // Путь к файлу внутри src
   const filePath = path.join(directoryPath, 'exprates.xml');
