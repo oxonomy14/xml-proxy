@@ -3,7 +3,11 @@ import puppeteer from 'puppeteer';
 import path from 'path';
 
 // Получаем путь к текущей директории
-const directoryPath = path.join(new URL(import.meta.url).pathname, '..', 'src');
+const directoryPath = path.join(
+  new URL(import.meta.url).pathname,
+  '..',
+  'data'
+);
 
 // Если директория не существует, создаём её
 if (!fs.existsSync(directoryPath)) {
