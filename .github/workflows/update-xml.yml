@@ -1,0 +1,25 @@
+name: Update XML
+
+on:
+  schedule:
+    - cron: '* * * * *' # Обновлять каждый час
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download XML
+        run:
+          curl -A "Mozilla/5.0" -o exprates.xml
+          https://vipchanger.com/res/xml/exprates.xml
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add exprates.xml
+          git commit -m "Обновление XML" || exit 0
+          git push
