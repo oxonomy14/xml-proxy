@@ -2,8 +2,7 @@ name: Update XML
 
 on:
   schedule:
-    - cron: '* * * * *' # Каждую минуту
-  workflow_dispatch: # 👈 Добавляем это
+    - cron: '* * * * *' # Обновлять каждый час
 
 jobs:
   update:
