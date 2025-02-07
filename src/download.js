@@ -14,7 +14,7 @@ import puppeteer from 'puppeteer';
 
   const xmlContent = await page.evaluate(() => document.body.innerText);
 
-  // fs.writeFileSync('exprates.xml', xmlContent);
+  fs.writeFileSync('exprates.xml', xmlContent);
   fs.writeFileSync(
     'data.xml',
     `<updated>${new Date().toISOString()}</updated>`
