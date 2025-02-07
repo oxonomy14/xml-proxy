@@ -1,6 +1,6 @@
 let users = []; // Глобальная переменная
 
-fetch('/xml-proxy/src/data/users.json')
+fetch('src/data/users.json')
   .then(response => {
     if (!response.ok) {
       throw new Error(`Ошибка загрузки: ${response.status}`);
