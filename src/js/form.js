@@ -1,6 +1,6 @@
 let users = []; // Глобальная переменная
 
-fetch('src/data/users.json')
+fetch('assets/data/users.json')
   .then(response => {
     if (!response.ok) {
       throw new Error(`Ошибка загрузки: ${response.status}`);
