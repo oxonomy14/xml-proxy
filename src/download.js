@@ -2,6 +2,14 @@ import fs from 'fs';
 import puppeteer from 'puppeteer';
 import path from 'path';
 
+// Получаем путь к текущей директории
+const directoryPath = path.join(new URL(import.meta.url).pathname, '..', 'src');
+
+// Если директория не существует, создаём её
+if (!fs.existsSync(directoryPath)) {
+  fs.mkdirSync(directoryPath, { recursive: true });
+}
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: true,
@@ -15,14 +23,6 @@ import path from 'path';
   await page.goto('https://vipchanger.com/res/xml/exprates.xml');
 
   const xmlContent = await page.evaluate(() => document.body.innerText);
-
-  // Указываем директорию src для сохранения файла
-  const directoryPath = path.join(__dirname, 'src'); // Путь к директории src
-
-  // Проверка и создание директории src, если её нет
-  if (!fs.existsSync(directoryPath)) {
-    fs.mkdirSync(directoryPath, { recursive: true });
-  }
 
   // Путь к файлу внутри src
   const filePath = path.join(directoryPath, 'exprates.xml');
