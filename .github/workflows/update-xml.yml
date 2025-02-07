@@ -3,7 +3,7 @@ name: Update XML
 on:
   schedule:
     - cron: '* * * * *' # Обновлять каждый час
-
+workflow_dispatch:  # Позволяет запускать вручную
 jobs:
   update:
     runs-on: ubuntu-latest
