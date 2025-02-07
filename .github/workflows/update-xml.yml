@@ -2,7 +2,7 @@ name: Update XML File
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Запуск каждые 5 минут
+    - cron: '*/50 * * * *' # Запуск каждые 5 минут
   workflow_dispatch: # Возможность запустить вручную
 
 jobs:
