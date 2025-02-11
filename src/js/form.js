@@ -39,7 +39,7 @@ fetch(`${import.meta.env.BASE_URL}data/exprates.xml`)
     const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
 
     const fromCurrency = 'SBERRUB';
-    const toCurrency = 'THB';
+    const toCurrency = 'WIRETHB';
 
     const exchangeNode = Array.from(xmlDoc.querySelectorAll('item')).find(
       item =>
@@ -48,7 +48,10 @@ fetch(`${import.meta.env.BASE_URL}data/exprates.xml`)
     );
 
     if (exchangeNode) {
-      exchangeRate = exchangeNode.querySelector('out').textContent;
+      let exchangeRateOut = exchangeNode.querySelector('out').textContent;
+      let exchangeRateIn = exchangeNode.querySelector('in').textContent;
+      exchangeRate = (exchangeRateOut / exchangeRateIn).toFixed(4);
+
       console.log(`Курс ${fromCurrency} → ${toCurrency}: ${exchangeRate}`);
     } else {
       console.log('Курс не найден');
