@@ -72,16 +72,16 @@ div.folder &gt; span.hidden {
     <to>P24UAH</to>
     <in>1.000000</in>
     <out>39.544935</out>
-    <amount>859231.00</amount>
+    <amount>812597.00</amount>
     <minamount>126.44</minamount>
-    <maxamount>21727</maxamount>
+    <maxamount>20548</maxamount>
   </item>
   <item>
     <from>SBPRUB</from>
     <to>P24UAH</to>
     <in>2.564430</in>
     <out>1.000000</out>
-    <amount>203419.08</amount>
+    <amount>203504.09</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -90,7 +90,7 @@ div.folder &gt; span.hidden {
     <to>MONOBUAH</to>
     <in>2.579900</in>
     <out>1.000000</out>
-    <amount>202199.31</amount>
+    <amount>202283.81</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -99,17 +99,17 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>6533.53</amount>
+    <amount>6536.26</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
   <item>
     <from>SBERRUB</from>
     <to>WIREUAH</to>
-    <in>2.563300</in>
+    <in>2.560169</in>
     <out>1.000000</out>
-    <amount>229857.22</amount>
-    <minamount>12816.5</minamount>
+    <amount>234359.53</amount>
+    <minamount>12800.85</minamount>
     <maxamount>550000</maxamount>
   </item>
   <item>
@@ -117,16 +117,16 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>1.000000</in>
     <out>39.192000</out>
-    <amount>1091416.00</amount>
+    <amount>961581.00</amount>
     <minamount>127.58</minamount>
-    <maxamount>27847</maxamount>
+    <maxamount>24535</maxamount>
   </item>
   <item>
     <from>YAMRUB</from>
     <to>MONOBUAH</to>
-    <in>2.575410</in>
+    <in>2.557806</in>
     <out>1.000000</out>
-    <amount>109566.17</amount>
+    <amount>61103.81</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
     <fromfee>3 %</fromfee>
@@ -134,36 +134,36 @@ div.folder &gt; span.hidden {
   <item>
     <from>CARDRUB</from>
     <to>MONOBUAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>TBRUB</from>
     <to>MONOBUAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>MIRCRUB</from>
     <to>MONOBUAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>MONOBUAH</from>
     <to>WMZ</to>
-    <in>34.549400</in>
+    <in>34.548400</in>
     <out>1.000000</out>
-    <amount>10911.84</amount>
+    <amount>17041.47</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -172,15 +172,15 @@ div.folder &gt; span.hidden {
     <to>MONOBUAH</to>
     <in>1.000000</in>
     <out>39.537027</out>
-    <amount>1496710.00</amount>
+    <amount>1508006.00</amount>
     <minamount>126.46</minamount>
-    <maxamount>37855</maxamount>
+    <maxamount>38141</maxamount>
   </item>
   <item>
     <from>USDTTRC20</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
-    <out>90.001000</out>
+    <out>90.001100</out>
     <amount>598582.00</amount>
     <minamount>80</minamount>
     <maxamount>6111</maxamount>
@@ -189,17 +189,17 @@ div.folder &gt; span.hidden {
     <from>USDTTRC20</from>
     <to>TCSBRUB</to>
     <in>1.000000</in>
-    <out>88.701000</out>
+    <out>88.691000</out>
     <amount>598582.00</amount>
     <minamount>80</minamount>
-    <maxamount>5636</maxamount>
+    <maxamount>5637</maxamount>
   </item>
   <item>
     <from>MONOBUAH</from>
     <to>TCSBRUB</to>
     <in>1.000000</in>
-    <out>2.120300</out>
-    <amount>799347.63</amount>
+    <out>2.124000</out>
+    <amount>1062260.00</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -207,8 +207,8 @@ div.folder &gt; span.hidden {
     <from>MONOBUAH</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
-    <out>2.149200</out>
-    <amount>810242.86</amount>
+    <out>2.147200</out>
+    <amount>1264175.64</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -226,17 +226,17 @@ div.folder &gt; span.hidden {
     <to>MONOBUAH</to>
     <in>2.539900</in>
     <out>1.000000</out>
-    <amount>231974.88</amount>
+    <amount>236229.77</amount>
     <minamount>12699.5</minamount>
     <maxamount>550000</maxamount>
   </item>
   <item>
     <from>TCSBRUB</from>
     <to>MONOBUAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>117035.95</amount>
-    <minamount>12816.58</minamount>
+    <amount>116283.58</amount>
+    <minamount>12899.5</minamount>
     <maxamount>300000</maxamount>
   </item>
   <item>
@@ -253,7 +253,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>109109.04</amount>
+    <amount>60432.95</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -262,7 +262,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>109109.04</amount>
+    <amount>60432.95</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -271,7 +271,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>109109.04</amount>
+    <amount>60432.95</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -280,7 +280,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>109109.04</amount>
+    <amount>60432.95</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
     <fromfee>3 %</fromfee>
@@ -290,7 +290,7 @@ div.folder &gt; span.hidden {
     <to>USDTTRC20</to>
     <in>44.517000</in>
     <out>1.000000</out>
-    <amount>8306.88</amount>
+    <amount>13225.41</amount>
     <minamount>8903.4</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -307,18 +307,18 @@ div.folder &gt; span.hidden {
     <from>P24UAH</from>
     <to>SBPRUB</to>
     <in>1.000000</in>
-    <out>2.126300</out>
+    <out>2.128400</out>
     <amount>562749.30</amount>
-    <minamount>7054.51</minamount>
+    <minamount>7047.55</minamount>
     <maxamount>50000</maxamount>
   </item>
   <item>
     <from>MONOBUAH</from>
     <to>SBPRUB</to>
     <in>1.000000</in>
-    <out>2.125400</out>
+    <out>2.125900</out>
     <amount>562749.30</amount>
-    <minamount>7057.5</minamount>
+    <minamount>7055.84</minamount>
     <maxamount>50000</maxamount>
   </item>
   <item>
@@ -326,7 +326,7 @@ div.folder &gt; span.hidden {
     <to>TCSBRUB</to>
     <in>1.000000</in>
     <out>2.100100</out>
-    <amount>776611.56</amount>
+    <amount>1062260.00</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -334,17 +334,17 @@ div.folder &gt; span.hidden {
     <from>USDTTRC20</from>
     <to>SBPRUB</to>
     <in>1.000000</in>
-    <out>88.443900</out>
+    <out>88.389300</out>
     <amount>562749.30</amount>
-    <minamount>169.6</minamount>
-    <maxamount>6218</maxamount>
+    <minamount>169.7</minamount>
+    <maxamount>6222</maxamount>
   </item>
   <item>
     <from>WIREGEL</from>
     <to>WIREUAH</to>
     <in>1.000000</in>
     <out>13.397200</out>
-    <amount>544011.39</amount>
+    <amount>575494.81</amount>
     <minamount>373.21</minamount>
     <maxamount>5000</maxamount>
   </item>
@@ -353,7 +353,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>34.549600</in>
     <out>1.000000</out>
-    <amount>10703.38</amount>
+    <amount>17040.88</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -362,7 +362,7 @@ div.folder &gt; span.hidden {
     <to>SBERRUB</to>
     <in>1.000000</in>
     <out>2.120200</out>
-    <amount>784044.49</amount>
+    <amount>1248279.24</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -380,7 +380,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>201706.75</amount>
+    <amount>201791.04</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -398,25 +398,25 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>1.000000</in>
     <out>31.179000</out>
-    <amount>1046364.12</amount>
+    <amount>961581.00</amount>
     <minamount>160.36</minamount>
-    <maxamount>33559</maxamount>
+    <maxamount>30840</maxamount>
   </item>
   <item>
     <from>WIREGEL</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
     <out>30.145800</out>
-    <amount>1224110.91</amount>
+    <amount>1294953.54</amount>
     <minamount>200</minamount>
     <maxamount>5000</maxamount>
   </item>
   <item>
     <from>SBERRUB</from>
     <to>WIREGEL</to>
-    <in>36.456700</in>
+    <in>36.443900</in>
     <out>1.000000</out>
-    <amount>16161.45</amount>
+    <amount>16463.66</amount>
     <minamount>9000</minamount>
     <maxamount>550000</maxamount>
   </item>
@@ -425,43 +425,43 @@ div.folder &gt; span.hidden {
     <to>TCSBRUB</to>
     <in>1.000000</in>
     <out>29.801200</out>
-    <amount>1013220.00</amount>
+    <amount>1062260.00</amount>
     <minamount>200</minamount>
     <maxamount>5000</maxamount>
   </item>
   <item>
     <from>TCSBRUB</from>
     <to>WIREGEL</to>
-    <in>36.456700</in>
+    <in>36.443900</in>
     <out>1.000000</out>
-    <amount>8228.94</amount>
+    <amount>8231.83</amount>
     <minamount>9000</minamount>
     <maxamount>299999</maxamount>
   </item>
   <item>
     <from>CARDRUB</from>
     <to>WIREGEL</to>
-    <in>36.985700</in>
+    <in>36.972700</in>
     <out>1.000000</out>
-    <amount>7629.38</amount>
+    <amount>4227.22</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>TBRUB</from>
     <to>WIREGEL</to>
-    <in>36.985700</in>
+    <in>36.972700</in>
     <out>1.000000</out>
-    <amount>7629.38</amount>
+    <amount>4227.22</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>MIRCRUB</from>
     <to>WIREGEL</to>
-    <in>36.985700</in>
+    <in>36.972700</in>
     <out>1.000000</out>
-    <amount>7629.38</amount>
+    <amount>4227.22</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -470,7 +470,7 @@ div.folder &gt; span.hidden {
     <to>P24UAH</to>
     <in>1.000000</in>
     <out>13.397200</out>
-    <amount>544011.39</amount>
+    <amount>575494.81</amount>
     <minamount>373.21</minamount>
     <maxamount>5000</maxamount>
   </item>
@@ -479,25 +479,25 @@ div.folder &gt; span.hidden {
     <to>MONOBUAH</to>
     <in>1.000000</in>
     <out>13.397200</out>
-    <amount>544011.39</amount>
+    <amount>575494.81</amount>
     <minamount>373.21</minamount>
     <maxamount>5000</maxamount>
   </item>
   <item>
     <from>P24UAH</from>
     <to>WIREGEL</to>
-    <in>16.063500</in>
+    <in>16.061700</in>
     <out>1.000000</out>
-    <amount>23020.97</amount>
+    <amount>36655.86</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
   <item>
     <from>MONOBUAH</from>
     <to>WIREGEL</to>
-    <in>16.063400</in>
+    <in>16.061600</in>
     <out>1.000000</out>
-    <amount>23469.34</amount>
+    <amount>36656.09</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -506,7 +506,7 @@ div.folder &gt; span.hidden {
     <to>WIREGEL</to>
     <in>16.106700</in>
     <out>1.000000</out>
-    <amount>22959.23</amount>
+    <amount>36553.45</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -515,16 +515,16 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>1.000000</in>
     <out>1.240000</out>
-    <amount>46253.86</amount>
+    <amount>46390.10</amount>
     <minamount>50</minamount>
-    <maxamount>37301</maxamount>
+    <maxamount>37411</maxamount>
   </item>
   <item>
     <from>WMT</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
     <out>89.700000</out>
-    <amount>1940720.00</amount>
+    <amount>1966220.00</amount>
     <minamount>55.74</minamount>
     <maxamount>6131</maxamount>
   </item>
@@ -542,7 +542,7 @@ div.folder &gt; span.hidden {
     <to>TCSBRUB</to>
     <in>1.000000</in>
     <out>67.943000</out>
-    <amount>1013220.00</amount>
+    <amount>1062260.00</amount>
     <minamount>73.59</minamount>
     <maxamount>7359</maxamount>
   </item>
@@ -560,7 +560,7 @@ div.folder &gt; span.hidden {
     <to>TCSBRUB</to>
     <in>1.000000</in>
     <out>89.700000</out>
-    <amount>1013220.00</amount>
+    <amount>1062260.00</amount>
     <minamount>55.74</minamount>
     <maxamount>6131</maxamount>
   </item>
@@ -569,7 +569,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>102.375000</in>
     <out>1.000000</out>
-    <amount>5095.52</amount>
+    <amount>5097.65</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -587,7 +587,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>3534.18</amount>
+    <amount>1957.50</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -596,7 +596,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>3534.18</amount>
+    <amount>1957.50</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -605,7 +605,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>3534.18</amount>
+    <amount>1957.50</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -614,7 +614,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>102.375000</in>
     <out>1.000000</out>
-    <amount>2756.32</amount>
+    <amount>1526.66</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -623,7 +623,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>102.375000</in>
     <out>1.000000</out>
-    <amount>2756.32</amount>
+    <amount>1526.66</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -632,7 +632,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>102.375000</in>
     <out>1.000000</out>
-    <amount>2756.32</amount>
+    <amount>1526.66</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -641,7 +641,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>102.375000</in>
     <out>1.000000</out>
-    <amount>5755.24</amount>
+    <amount>5860.81</amount>
     <minamount>9000</minamount>
     <maxamount>550000</maxamount>
   </item>
@@ -650,7 +650,7 @@ div.folder &gt; span.hidden {
     <to>SBERRUB</to>
     <in>1.000000</in>
     <out>67.943000</out>
-    <amount>1940720.00</amount>
+    <amount>1966220.00</amount>
     <minamount>73.59</minamount>
     <maxamount>8095</maxamount>
   </item>
@@ -659,7 +659,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>7379.43</amount>
+    <amount>7514.79</amount>
     <minamount>9000</minamount>
     <maxamount>550000</maxamount>
   </item>
@@ -668,25 +668,25 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>1.000000</in>
     <out>40.232500</out>
-    <amount>1091416.00</amount>
+    <amount>961581.00</amount>
     <minamount>124.28</minamount>
-    <maxamount>27127</maxamount>
+    <maxamount>23900</maxamount>
   </item>
   <item>
     <from>WIREUAH</from>
     <to>WMT</to>
     <in>43.878000</in>
     <out>1.000000</out>
-    <amount>8427.85</amount>
+    <amount>13418.01</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
   <item>
     <from>P24UAH</from>
     <to>WMZ</to>
-    <in>34.549400</in>
+    <in>34.548400</in>
     <out>1.000000</out>
-    <amount>10703.44</amount>
+    <amount>17041.47</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -695,7 +695,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>44.091000</in>
     <out>1.000000</out>
-    <amount>8387.14</amount>
+    <amount>13353.19</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -704,7 +704,7 @@ div.folder &gt; span.hidden {
     <to>WMT</to>
     <in>43.878000</in>
     <out>1.000000</out>
-    <amount>8591.95</amount>
+    <amount>13418.01</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -713,27 +713,27 @@ div.folder &gt; span.hidden {
     <to>P24UAH</to>
     <in>1.000000</in>
     <out>31.000100</out>
-    <amount>859231.00</amount>
+    <amount>812597.00</amount>
     <minamount>161.29</minamount>
-    <maxamount>27717</maxamount>
+    <maxamount>26212</maxamount>
   </item>
   <item>
     <from>WMT</from>
     <to>P24UAH</to>
     <in>1.000000</in>
     <out>40.044000</out>
-    <amount>859231.00</amount>
+    <amount>812597.00</amount>
     <minamount>124.86</minamount>
-    <maxamount>21457</maxamount>
+    <maxamount>20292</maxamount>
   </item>
   <item>
     <from>WMT</from>
     <to>MONOBUAH</to>
     <in>1.000000</in>
     <out>40.232500</out>
-    <amount>1496710.00</amount>
+    <amount>1508006.00</amount>
     <minamount>124.28</minamount>
-    <maxamount>37201</maxamount>
+    <maxamount>37482</maxamount>
   </item>
   <item>
     <from>WMZ</from>
@@ -747,9 +747,9 @@ div.folder &gt; span.hidden {
   <item>
     <from>SBPRUB</from>
     <to>WIREGEL</to>
-    <in>36.987200</in>
+    <in>37.015900</in>
     <out>1.000000</out>
-    <amount>14103.64</amount>
+    <amount>14098.59</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -758,7 +758,7 @@ div.folder &gt; span.hidden {
     <to>P24UAH</to>
     <in>2.539900</in>
     <out>1.000000</out>
-    <amount>231974.88</amount>
+    <amount>236229.77</amount>
     <minamount>12699.5</minamount>
     <maxamount>550000</maxamount>
   </item>
@@ -766,8 +766,8 @@ div.folder &gt; span.hidden {
     <from>P24UAH</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
-    <out>2.140300</out>
-    <amount>791477.42</amount>
+    <out>2.131200</out>
+    <amount>1254755.55</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -776,7 +776,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>79.842600</in>
     <out>1.000000</out>
-    <amount>3534.18</amount>
+    <amount>1957.50</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
     <fromfee>3 %</fromfee>
@@ -784,45 +784,45 @@ div.folder &gt; span.hidden {
   <item>
     <from>CARDRUB</from>
     <to>P24UAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>TBRUB</from>
     <to>P24UAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>MIRCRUB</from>
     <to>P24UAH</to>
-    <in>2.563315</in>
+    <in>2.579900</in>
     <out>1.000000</out>
-    <amount>110083.15</amount>
+    <amount>60580.53</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
   <item>
     <from>TCSBRUB</from>
     <to>P24UAH</to>
-    <in>2.563315</in>
+    <in>2.564430</in>
     <out>1.000000</out>
-    <amount>117035.95</amount>
-    <minamount>12816.58</minamount>
-    <maxamount>300000</maxamount>
+    <amount>116985.06</amount>
+    <minamount>12822.15</minamount>
+    <maxamount>299999</maxamount>
   </item>
   <item>
     <from>YAMRUB</from>
     <to>P24UAH</to>
     <in>2.586200</in>
     <out>1.000000</out>
-    <amount>109109.04</amount>
+    <amount>60432.95</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
     <fromfee>3 %</fromfee>
@@ -832,7 +832,7 @@ div.folder &gt; span.hidden {
     <to>TCSBRUB</to>
     <in>1.000000</in>
     <out>2.120100</out>
-    <amount>784007.51</amount>
+    <amount>1062260.00</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -850,7 +850,7 @@ div.folder &gt; span.hidden {
     <to>WMZ</to>
     <in>26.959800</in>
     <out>1.000000</out>
-    <amount>46253.86</amount>
+    <amount>46390.10</amount>
     <minamount>1347.99</minamount>
     <maxamount>650000</maxamount>
   </item>
@@ -858,17 +858,17 @@ div.folder &gt; span.hidden {
     <from>WIRETHB</from>
     <to>TCSBRUB</to>
     <in>1.000000</in>
-    <out>2.714430</out>
-    <amount>1013220.00</amount>
-    <minamount>1842.01</minamount>
-    <maxamount>184200</maxamount>
+    <out>2.703500</out>
+    <amount>1062260.00</amount>
+    <minamount>1849.45</minamount>
+    <maxamount>184945</maxamount>
   </item>
   <item>
     <from>WIRETHB</from>
     <to>SBERRUB</to>
     <in>1.000000</in>
     <out>2.732300</out>
-    <amount>1940720.00</amount>
+    <amount>1966220.00</amount>
     <minamount>1829.96</minamount>
     <maxamount>201295</maxamount>
   </item>
@@ -877,7 +877,7 @@ div.folder &gt; span.hidden {
     <to>MONOBUAH</to>
     <in>1.000000</in>
     <out>1.181200</out>
-    <amount>1496710.00</amount>
+    <amount>1508006.00</amount>
     <minamount>4232.98</minamount>
     <maxamount>650000</maxamount>
   </item>
@@ -895,7 +895,7 @@ div.folder &gt; span.hidden {
     <to>WIREUAH</to>
     <in>1.000000</in>
     <out>1.181200</out>
-    <amount>1091416.00</amount>
+    <amount>961581.00</amount>
     <minamount>4232.98</minamount>
     <maxamount>650000</maxamount>
   </item>
@@ -904,7 +904,7 @@ div.folder &gt; span.hidden {
     <to>P24UAH</to>
     <in>1.000000</in>
     <out>1.181200</out>
-    <amount>859231.00</amount>
+    <amount>812597.00</amount>
     <minamount>4232.98</minamount>
     <maxamount>650000</maxamount>
   </item>
@@ -922,7 +922,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.119255</in>
     <out>1.000000</out>
-    <amount>167236.73</amount>
+    <amount>167306.62</amount>
     <minamount>15000</minamount>
     <maxamount>100000</maxamount>
   </item>
@@ -931,7 +931,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>1.325700</in>
     <out>1.000000</out>
-    <amount>278945.03</amount>
+    <amount>444109.09</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -958,16 +958,16 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>1.000000</in>
     <out>32.041000</out>
-    <amount>2937187.00</amount>
+    <amount>2863333.00</amount>
     <minamount>50</minamount>
-    <maxamount>91669</maxamount>
+    <maxamount>89364</maxamount>
   </item>
   <item>
     <from>P24UAH</from>
     <to>WIRETHB</to>
     <in>1.325700</in>
     <out>1.000000</out>
-    <amount>278945.03</amount>
+    <amount>444109.09</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -976,7 +976,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.134900</in>
     <out>1.000000</out>
-    <amount>187946.35</amount>
+    <amount>191393.66</amount>
     <minamount>9000</minamount>
     <maxamount>550000</maxamount>
   </item>
@@ -985,7 +985,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>1.000000</in>
     <out>10.960600</out>
-    <amount>445069.96</amount>
+    <amount>470827.37</amount>
     <minamount>200</minamount>
     <maxamount>5000</maxamount>
   </item>
@@ -1003,7 +1003,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.149300</in>
     <out>1.000000</out>
-    <amount>89600.17</amount>
+    <amount>49627.44</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
     <fromfee>3 %</fromfee>
@@ -1013,7 +1013,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>1.325700</in>
     <out>1.000000</out>
-    <amount>284376.12</amount>
+    <amount>444109.09</amount>
     <minamount>4500</minamount>
     <maxamount>50000</maxamount>
   </item>
@@ -1022,7 +1022,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.149300</in>
     <out>1.000000</out>
-    <amount>89600.17</amount>
+    <amount>49627.44</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -1031,7 +1031,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.149300</in>
     <out>1.000000</out>
-    <amount>89600.17</amount>
+    <amount>49627.44</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -1040,7 +1040,7 @@ div.folder &gt; span.hidden {
     <to>WIRETHB</to>
     <in>3.149300</in>
     <out>1.000000</out>
-    <amount>89600.17</amount>
+    <amount>49627.44</amount>
     <minamount>15000</minamount>
     <maxamount>88265</maxamount>
   </item>
@@ -1050,16 +1050,16 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>39.544935</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>859231.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>812597.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>126.44</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>21727</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>20548</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder2"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>SBPRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.564430</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>203419.08</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>203504.09</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1068,7 +1068,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>202199.31</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>202283.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1077,17 +1077,17 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>6533.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>6536.26</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder5"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563300</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.560169</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>229857.22</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12816.5</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>234359.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12800.85</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder6"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
@@ -1095,16 +1095,16 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>39.192000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1091416.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>961581.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>127.58</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>27847</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>24535</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder7"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>YAMRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.575410</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.557806</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109566.17</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>61103.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;fromfee&gt;</span><span>3 %</span><span class="html-tag">&lt;/fromfee&gt;</span></div><span>
@@ -1112,36 +1112,36 @@ div.folder &gt; span.hidden {
   </span><div class="folder" id="folder8"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>CARDRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder9"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder10"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MIRCRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder11"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>34.549400</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>34.548400</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>10911.84</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>17041.47</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1150,15 +1150,15 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>39.537027</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1496710.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1508006.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>126.46</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>37855</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>38141</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder13"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>USDTTRC20</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>90.001000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>90.001100</span><span class="html-tag">&lt;/out&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>598582.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>80</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>6111</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
@@ -1167,17 +1167,17 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>USDTTRC20</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>88.701000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>88.691000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>598582.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>80</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5636</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5637</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder15"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.120300</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>799347.63</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.124000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1185,8 +1185,8 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.149200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>810242.86</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.147200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1264175.64</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1204,17 +1204,17 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.539900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>231974.88</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>236229.77</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12699.5</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder19"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>117035.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12816.58</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>116283.58</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12899.5</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>300000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder20"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
@@ -1231,7 +1231,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109109.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60432.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1240,7 +1240,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109109.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60432.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1249,7 +1249,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109109.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60432.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1258,7 +1258,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109109.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60432.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;fromfee&gt;</span><span>3 %</span><span class="html-tag">&lt;/fromfee&gt;</span></div><span>
@@ -1268,7 +1268,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>USDTTRC20</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>44.517000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8306.88</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>13225.41</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>8903.4</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1285,18 +1285,18 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBPRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.126300</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.128400</span><span class="html-tag">&lt;/out&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>562749.30</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>7054.51</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>7047.55</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder28"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBPRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.125400</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.125900</span><span class="html-tag">&lt;/out&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>562749.30</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>7057.5</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>7055.84</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder29"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
@@ -1304,7 +1304,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.100100</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>776611.56</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1312,17 +1312,17 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>USDTTRC20</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBPRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>88.443900</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>88.389300</span><span class="html-tag">&lt;/out&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>562749.30</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>169.6</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>6218</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>169.7</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>6222</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder31"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>13.397200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>544011.39</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>575494.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>373.21</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1331,7 +1331,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>34.549600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>10703.38</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>17040.88</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1340,7 +1340,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.120200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>784044.49</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1248279.24</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1358,7 +1358,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>201706.75</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>201791.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1376,25 +1376,25 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>31.179000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1046364.12</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>961581.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>160.36</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>33559</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>30840</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder38"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>30.145800</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1224110.91</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1294953.54</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>200</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder39"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.456700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.443900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>16161.45</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>16463.66</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>9000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1403,43 +1403,43 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>29.801200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1013220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>200</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder41"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.456700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.443900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8228.94</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8231.83</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>9000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>299999</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder42"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>CARDRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.985700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.972700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>7629.38</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>4227.22</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder43"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.985700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.972700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>7629.38</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>4227.22</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder44"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MIRCRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.985700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.972700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>7629.38</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>4227.22</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1448,7 +1448,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>13.397200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>544011.39</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>575494.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>373.21</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1457,25 +1457,25 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>13.397200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>544011.39</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>575494.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>373.21</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder47"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>16.063500</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>16.061700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>23020.97</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>36655.86</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder48"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>16.063400</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>16.061600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>23469.34</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>36656.09</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1484,7 +1484,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>16.106700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>22959.23</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>36553.45</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1493,16 +1493,16 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.240000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>46253.86</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>46390.10</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>50</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>37301</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>37411</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder51"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WMT</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>89.700000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1940720.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1966220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>55.74</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>6131</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1520,7 +1520,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>67.943000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1013220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>73.59</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>7359</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1538,7 +1538,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>89.700000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1013220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>55.74</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>6131</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1547,7 +1547,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>102.375000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>5095.52</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>5097.65</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1565,7 +1565,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>3534.18</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1957.50</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1574,7 +1574,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>3534.18</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1957.50</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1583,7 +1583,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>3534.18</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1957.50</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1592,7 +1592,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>102.375000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>2756.32</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1526.66</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1601,7 +1601,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>102.375000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>2756.32</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1526.66</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1610,7 +1610,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>102.375000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>2756.32</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1526.66</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1619,7 +1619,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>102.375000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>5755.24</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>5860.81</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>9000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1628,7 +1628,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>67.943000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1940720.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1966220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>73.59</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>8095</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1637,7 +1637,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>7379.43</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>7514.79</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>9000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1646,25 +1646,25 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>40.232500</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1091416.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>961581.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>124.28</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>27127</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>23900</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder68"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>43.878000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8427.85</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>13418.01</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder69"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>34.549400</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>34.548400</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>10703.44</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>17041.47</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1673,7 +1673,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>44.091000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8387.14</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>13353.19</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1682,7 +1682,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMT</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>43.878000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>8591.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>13418.01</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1691,27 +1691,27 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>31.000100</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>859231.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>812597.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>161.29</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>27717</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>26212</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder73"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WMT</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>40.044000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>859231.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>812597.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>124.86</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>21457</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>20292</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder74"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WMT</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>40.232500</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1496710.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1508006.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>124.28</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>37201</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>37482</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder75"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WMZ</span><span class="html-tag">&lt;/from&gt;</span></div><span>
@@ -1725,9 +1725,9 @@ div.folder &gt; span.hidden {
   </span><div class="folder" id="folder76"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>SBPRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREGEL</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>36.987200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>37.015900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>14103.64</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>14098.59</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1736,7 +1736,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.539900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>231974.88</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>236229.77</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12699.5</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1744,8 +1744,8 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.140300</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>791477.42</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.131200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1254755.55</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1754,7 +1754,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>79.842600</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>3534.18</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1957.50</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;fromfee&gt;</span><span>3 %</span><span class="html-tag">&lt;/fromfee&gt;</span></div><span>
@@ -1762,45 +1762,45 @@ div.folder &gt; span.hidden {
   </span><div class="folder" id="folder80"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>CARDRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder81"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder82"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>MIRCRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.579900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>110083.15</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60580.53</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder83"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.563315</span><span class="html-tag">&lt;/in&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.564430</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>117035.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12816.58</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>300000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>116985.06</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>12822.15</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>299999</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder84"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>YAMRUB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>2.586200</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>109109.04</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>60432.95</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;fromfee&gt;</span><span>3 %</span><span class="html-tag">&lt;/fromfee&gt;</span></div><span>
@@ -1810,7 +1810,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.120100</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>784007.51</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1828,7 +1828,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WMZ</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>26.959800</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>46253.86</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>46390.10</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>1347.99</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>650000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1836,17 +1836,17 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>TCSBRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.714430</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1013220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>1842.01</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>184200</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.703500</span><span class="html-tag">&lt;/out&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1062260.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>1849.45</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>184945</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder89"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>SBERRUB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>2.732300</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1940720.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1966220.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>1829.96</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>201295</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1855,7 +1855,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>MONOBUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.181200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1496710.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1508006.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4232.98</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>650000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1873,7 +1873,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIREUAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.181200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>1091416.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>961581.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4232.98</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>650000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1882,7 +1882,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.181200</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>859231.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>812597.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4232.98</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>650000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1900,7 +1900,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.119255</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>167236.73</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>167306.62</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>100000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1909,7 +1909,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.325700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>278945.03</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>444109.09</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1936,16 +1936,16 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>32.041000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>2937187.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>2863333.00</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>50</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>91669</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>89364</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
   </span><div class="folder" id="folder100"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;item&gt;</span></div><div class="opened"><span>
     </span><div class="line"><span class="html-tag">&lt;from&gt;</span><span>P24UAH</span><span class="html-tag">&lt;/from&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.325700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>278945.03</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>444109.09</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1954,7 +1954,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.134900</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>187946.35</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>191393.66</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>9000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>550000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1963,7 +1963,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.000000</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>10.960600</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>445069.96</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>470827.37</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>200</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>5000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -1981,7 +1981,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.149300</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>89600.17</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>49627.44</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;fromfee&gt;</span><span>3 %</span><span class="html-tag">&lt;/fromfee&gt;</span></div><span>
@@ -1991,7 +1991,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>1.325700</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>284376.12</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>444109.09</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>4500</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>50000</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -2000,7 +2000,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.149300</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>89600.17</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>49627.44</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -2009,7 +2009,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.149300</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>89600.17</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>49627.44</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
@@ -2018,7 +2018,7 @@ div.folder &gt; span.hidden {
     </span><div class="line"><span class="html-tag">&lt;to&gt;</span><span>WIRETHB</span><span class="html-tag">&lt;/to&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;in&gt;</span><span>3.149300</span><span class="html-tag">&lt;/in&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;out&gt;</span><span>1.000000</span><span class="html-tag">&lt;/out&gt;</span></div><span>
-    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>89600.17</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
+    </span><div class="line"><span class="html-tag">&lt;amount&gt;</span><span>49627.44</span><span class="html-tag">&lt;/amount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;minamount&gt;</span><span>15000</span><span class="html-tag">&lt;/minamount&gt;</span></div><span>
     </span><div class="line"><span class="html-tag">&lt;maxamount&gt;</span><span>88265</span><span class="html-tag">&lt;/maxamount&gt;</span></div><span>
   </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/item&gt;</span></div></div><span>
