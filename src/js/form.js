@@ -110,7 +110,7 @@ refs.form.addEventListener('submit', e => {
     refs.title.textContent = `${user.username}, ${user.titleCourse}`;
     refs.result.textContent = `Стоимость сессии ${
       user.price
-    } Бат, что на сегодня ${formattedDate} по текущему курсу vipChanger 1 руб = ${exchangeRate} Бат составляет: ${Math.floor(
+    } Бат, что на сегодня ${formattedDate} по текущему курсу vipChanger   1 руб = ${exchangeRate} Бат составляет: ${Math.floor(
       user.price / exchangeRate
     )} руб.`;
     refs.text3.textContent = `Куратор: ${user.teacher}`;
