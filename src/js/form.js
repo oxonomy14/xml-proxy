@@ -111,19 +111,19 @@ refs.form.addEventListener('submit', e => {
 
   if (user) {
     refs.title.textContent = `${user.username}, ${user.titleCourse}`;
-    refs.result.textContent = `Стоимость сессии ${
+    refs.result.textContent = `<strong>Стоимость сессии ${
       user.price
-    } Бат, что на сегодня ${formattedDate} по текущему курсу обменника vipChanger 1 руб = ${exchangeRate} Бат составляет: ${Math.floor(
+    } Бат</strong>, что на сегодня ${formattedDate} по текущему курсу обменника vipChanger <strong>1 руб = ${exchangeRate} Бат</strong> составляет: <strong>${Math.floor(
       user.price / exchangeRate
-    )} руб.`;
+    )} руб.</strong>`;
     refs.text3.textContent = `Куратор: ${user.teacher}`;
 
     if (user.opt !== '') {
       refs.text2.textContent = `Стоимость ${
         user.opt
-      }-x занятий составит - ${Math.floor(
+      }-x занятий составит - <strong>${Math.floor(
         (user.priceOpt / exchangeRate) * user.opt
-      )} руб.`;
+      )} руб.</strong>`;
     } else {
       refs.text2.textContent = ``;
     }
