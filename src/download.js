@@ -6,7 +6,7 @@ import path from 'path';
 const directoryPath = path.join(
   new URL(import.meta.url).pathname,
   '..',
-  'data'
+  'public/data'
 );
 
 // Если директория не существует, создаём её
